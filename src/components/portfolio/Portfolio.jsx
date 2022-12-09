@@ -11,42 +11,42 @@ import IMG6 from '../../assets/portfolio6.jpg'
 const data = [
     {
         id: 1,
-        image: IMG1,
+        image: 'https://s3.amazonaws.com/creativetim_bucket/products/221/original/opt_blk_angular_thumbnail.jpg?1569476059',
         title:' Crypto Currency Dashboard & Financial visualtization',
         github: 'https://github.com',
         demo: ' https://dribble.com/'
     },
     {
         id: 2,
-        image: IMG2,
+        image: 'https://bootstrapmade.com/content/templatefiles/Arsha/Arsha-bootstrap-website-template-md.png',
         title:' Crypto Currency Dashboard & Financial visualtization',
         github: 'https://github.com',
         demo: ' https://dribble.com/'
     },
     {
         id: 3,
-        image: IMG3,
+        image: 'https://s3.amazonaws.com/creativetim_bucket/products/221/original/opt_blk_angular_thumbnail.jpg?1569476059',
         title:' Crypto Currency Dashboard & Financial visualtization',
         github: 'https://github.com',
         demo: ' https://dribble.com/'
     },
     {
         id: 4,
-        image: IMG4,
+        image: 'https://bootstrapmade.com/content/templatefiles/Arsha/Arsha-bootstrap-website-template-md.png',
         title:' Crypto Currency Dashboard & Financial visualtization',
         github: 'https://github.com',
         demo: ' https://dribble.com/'
     },
     {
         id: 5,
-        image: IMG5,
+        image: 'https://s3.amazonaws.com/creativetim_bucket/products/221/original/opt_blk_angular_thumbnail.jpg?1569476059',
         title:' Crypto Currency Dashboard & Financial visualtization',
         github: 'https://github.com',
         demo: ' https://dribble.com/'
     },
     {
         id: 6,
-        image: IMG6,
+        image: 'https://bootstrapmade.com/content/templatefiles/Arsha/Arsha-bootstrap-website-template-md.png',
         title:' Crypto Currency Dashboard & Financial visualtization',
         github: 'https://github.com',
         demo: ' https://dribble.com/'
